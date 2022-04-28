@@ -1,0 +1,15 @@
+*.swp
+*.swo
+*.log
+*.heapdump
+*.heapsnapshot
+.DS_Store
+
+**/node_modules/**/*
+
+.idea/
+.vscode/
+
+## tooling
+.coverage
+dist
